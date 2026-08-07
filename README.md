@@ -120,15 +120,15 @@ js/app.js
 
 ### Registro de Usuario
 
-Agregar captura aquí.
+![Registro](https://i.imgur.com/trrp2Dn.png)
 
 ### Inicio de Sesión
 
-Agregar captura aquí.
+![Login](https://i.imgur.com/bndStw4.png)
 
 ### Dashboard
 
-Agregar captura aquí.
+![Dashboard](https://i.imgur.com/VKzQA9x.png)
 
 ---
 
